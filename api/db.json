@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {
+      "id": 2,
+      "name": "Almir Azevedo",
+      "occupation": "Politician",
+      "weapon": "Laser",
+      "cartoon": "on"
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Francisco",
+      "occupation": "fdafdaf",
+      "weapon": "f",
+      "cartoon": true,
+      "id": 5
+    },
+    {
+      "name": "Almir Azevedo",
+      "occupation": "Politician",
+      "weapon": "Laser",
+      "cartoon": false,
+      "id": 8
+    },
+    {
+      "name": "Marques Mendes",
+      "occupation": "Politician",
+      "weapon": "Laser",
+      "cartoon": true,
+      "id": 9
+    }
+  ]
+}
